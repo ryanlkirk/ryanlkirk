@@ -1,4 +1,3 @@
-### Hi there 👋
 # Hi there, I'm [Ryan](https://ryanlkirk.github.io/cv/) 👋
 
 ## About Me
