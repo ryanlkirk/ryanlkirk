@@ -15,12 +15,10 @@ So if you're looking for a React developer who's passionate, dedicated, and slig
 A productivity toolkit and learning resource app for front end devs
 
 ## GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlkirk&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanlkirk&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ## Connect with Me
-- Website: [yourwebsite.com](https://yourwebsite.com)
-- Twitter: [@yourusername](https://twitter.com/yourusername)
-- LinkedIn: [Your Name](https://www.linkedin.com/in/ryan-kirk-dev)
+- LinkedIn: [Ryan Kirk](https://www.linkedin.com/in/ryan-kirk-dev)
 
 <!--
 **ryanlkirk/ryanlkirk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
