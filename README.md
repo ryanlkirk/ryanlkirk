@@ -12,7 +12,7 @@ I have worked on products that are used by hundreds of thousands of individual u
 So if you're looking for a React developer who's passionate, dedicated, and slightly obsessed with code quality, then you've come to the right place. Let's build something amazing together
 
 ## Currently working on:
-A productivity toolkit and learning resource app for front end devs
+Marketing websites in the tech4good space
 
 ## Connect with Me
 - LinkedIn: [Ryan Kirk](https://www.linkedin.com/in/ryan-kirk-dev)
